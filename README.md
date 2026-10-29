@@ -41,6 +41,13 @@ Requires the Xcode Command Line Tools (Swift 5.9+). The script assembles and ad-
   "paste from other apps" prompt — choose **Always Allow** so history capture works silently.
 - Quit from the menu (`Quit ClipStack`).
 
+## Credits
+
+Built by Pete ([@nse555](https://github.com/nse555)) together with
+[Claude](https://claude.com/claude-code) (Claude Fable 5), which wrote the code
+in a Claude Code session. Inspired by the late, great
+[ClipMenu](https://www.clipmenu.com/).
+
 ## License
 
 [MIT](LICENSE) — use it, fork it, ship it.
