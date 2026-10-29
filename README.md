@@ -4,6 +4,8 @@ A tiny native macOS clipboard history manager in the spirit of ClipMenu.
 Lives in the menu bar, keeps your last 100 copied items — text, images, and files —
 and survives restarts.
 
+![ClipStack menu with text, image, and file history entries](docs/screenshot.png)
+
 ## Features
 
 - **Menu bar history** — click the clipboard icon to see your last 100 copied items
@@ -38,3 +40,7 @@ Requires the Xcode Command Line Tools (Swift 5.9+). The script assembles and ad-
 - On recent macOS versions the first time ClipStack reads the clipboard you may get a
   "paste from other apps" prompt — choose **Always Allow** so history capture works silently.
 - Quit from the menu (`Quit ClipStack`).
+
+## License
+
+[MIT](LICENSE) — use it, fork it, ship it.
